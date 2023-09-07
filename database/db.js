@@ -4,7 +4,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: 'qwerty',
-    database: 'DianaSQL'
+    database: 'DianaSQL' // This should match your database name
 });
 
 connection.connect((err) => {
