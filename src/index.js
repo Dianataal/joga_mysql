@@ -1,3 +1,6 @@
+// see fail on vale
+//also sql runnib lhost:3000 nii et npm peab mujal runnima
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const mysql = require('mysql');
